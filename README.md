@@ -7,8 +7,8 @@
 🌕🌖🌗🌘🌑🌒🌓🌔 - 24/7
 
 - 👨🏼‍🤝‍👨🏼 Trust 👨🏼‍🤝‍👨🏼
-❌ Don't get caught up in personal feeling : Everyone is equal. 
-❌ Don't get caught up in money : My goal is not only to earn money
+  - ❌ Don't get caught up in personal feeling : Everyone is equal. 
+  - ❌ Don't get caught up in money : My goal is not only to earn money
 
 - 🙌🏻 Collaboration 🙌🏻
 I believe that collaboration is of **utmost importance**.
