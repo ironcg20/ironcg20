@@ -34,4 +34,4 @@ I believe that collaboration is of **utmost importance**.
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oojoseph67&show_icons=true&locale=en&layout=compact" alt="oojoseph67" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oojoseph67&show_icons=true&locale=en" alt="oojoseph67" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oojoseph67&show_icons=true&locale=en" alt="oojoseph67" /></p> -->
