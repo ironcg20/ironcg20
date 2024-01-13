@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Joseph</h1> -->
+<h1 align="center">Welcome!!</h1>
 <h3 align="center">💛 A FullStack Developer 💛</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -19,7 +19,7 @@ I believe that collaboration is of **utmost importance**.
 
 - 🌱 I’m currently learning **Mojo 🤔**
 
-- ⚡ I have fast development speed **I am fast **
+- ⚡ I have a rapid development speed **Quick  **
 
 - 💡  I am a creative
 
