@@ -3,15 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <h3 align="left">About Me:</h3>
-- Working hours
+
+- 🕕 Working hours
 🌕🌖🌗🌘🌑🌒🌓🌔 - 24/7
 
-- 👨🏼‍🤝‍👨🏼 Trust
-  - ❌ Don't get caught up in personal feeling : Everyone is equal. 
-  - ❌ Don't get caught up in money : My goal is not only to earn money
-
-- 🙌🏻 Collaboration
-I believe that collaboration is of **utmost importance**.
+- 🙌🏻 Collaboration + 👨🏼‍🤝‍👨🏼 Trust
+  - I believe that collaboration is of **utmost importance**.
+  - Don't get caught up in personal feeling : Everyone is equal. 
 
 - 💬 Ask me about **Anything**
 
