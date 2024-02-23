@@ -6,11 +6,11 @@
 - Working hours
 🌕🌖🌗🌘🌑🌒🌓🌔 - 24/7
 
-- 👨🏼‍🤝‍👨🏼 Trust 👨🏼‍🤝‍👨🏼
+- 👨🏼‍🤝‍👨🏼 Trust
   - ❌ Don't get caught up in personal feeling : Everyone is equal. 
   - ❌ Don't get caught up in money : My goal is not only to earn money
 
-- 🙌🏻 Collaboration 🙌🏻
+- 🙌🏻 Collaboration
 I believe that collaboration is of **utmost importance**.
 
 - 💬 Ask me about **Anything**
