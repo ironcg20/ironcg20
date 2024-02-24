@@ -5,7 +5,7 @@
 <h3 align="left">About Me:</h3>
 
 - 🕕 Working hours
-🌕🌖🌗🌘🌑🌒🌓🌔 - 24/7
+🌕🌖🌗🌘🌚🌒🌓🌔🌕 - 24/7
 
 - 🙌🏻 Collaboration + 👨🏼‍🤝‍👨🏼 Trust
   - I believe that collaboration is of **utmost importance**.
@@ -19,7 +19,7 @@
 
 - ⚡ I have a rapid development speed **Quick  **
 
-- 💡  I am a creative
+- 💡  I am a creative developer.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
