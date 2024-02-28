@@ -175,8 +175,8 @@
 
 
 # Related products -
-[![ko-hub](https://github-readme-stats.vercel.app/api/pin/?username=ironcg20&repo=ko-hub&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ironcg20/itasks)
-[![ko-hub-js](https://github-readme-stats.vercel.app/api/pin/?username=ironcg20&repo=ko-hub-js&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ironcg20/urfolio)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=ironcg20&repo=github-readme-stats&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ironcg20/github-readme-stats)
+[![bigcommerce_new_theme](https://github-readme-stats.vercel.app/api/pin/?username=ironcg20&repo=bigcommerce_theme&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ironcg20/bigcommerce_theme)
 
 <p align="left">
   <a href="https://github.com/ironcg20?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
