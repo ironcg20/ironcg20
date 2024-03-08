@@ -44,21 +44,15 @@
 <p>
  <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
 
-- 🕕&emsp;Working hours
-🌕🌖🌗🌘🌚🌒🌓🌔🌕 - 24/7
-
 - 🙌🏻&emsp;Collaboration + 👨🏼‍🤝‍👨🏼 Trust
   - I believe that collaboration is of **utmost importance**.
   - Don't get caught up in personal feeling : Everyone is equal. 
 
-- 💬&emsp;Ask me about **Anything**
+- 🐍&emsp;I like developing with **Python 🤔**
+- 💬&emsp;Ask me about **Web develope**
 
 - 👨‍💻&emsp;All of my projects are available at [https://github.com/ironcg20](https://github.com/ironcg20)
-
-- 🌱&emsp;I’m currently learning **Mojo 🤔**
-
-- ⚡&emsp;I have a rapid development speed **Quick  **
-
+- ⚡&emsp;I have a rapid development speed **Quick**
 - 💡&emsp; I am a creative developer.
 - 📧&emsp;Reach anytime: xxx@gmail.com
 - 💬&emsp;Leave issues [here](https://github.com/ironcg20/issues)
