@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
 <p align="center">
   <a href="https://github.com/ironcg20"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer&center=true&width=380&height=45"></a>
 </p>
@@ -42,16 +41,15 @@
  # About the Me
  
 <p>
- <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
 
 - 🙌🏻&emsp;Let's collaborate
 - 🐍&emsp;I like developing with **Python 🤔**
-- 💬&emsp;Ask me about **Web develope**
+- 💬&emsp;Ask me about **Web developing**
 
-- 👨‍💻&emsp;All of my projects are available at [https://github.com/ironcg20](https://github.com/ironcg20)
+- 👨‍💻&emsp;All of my projects are in [here](https://github.com/ironcg20)
 - ⚡&emsp;I have a rapid development speed **Quick**
 - 💡&emsp; I am a creative developer.
-- 📧&emsp;Reach anytime: xxx@gmail.com
+- 📧&emsp;Reach anytime: [here](xxx@gmail.com)
 - 💬&emsp;Leave issues [here](https://github.com/ironcg20/issues)
 
 </p>
