@@ -44,10 +44,7 @@
 <p>
  <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
 
-- 🙌🏻&emsp;Collaboration + 👨🏼‍🤝‍👨🏼 Trust
-  - I believe that collaboration is of **utmost importance**.
-  - Don't get caught up in personal feeling : Everyone is equal. 
-
+- 🙌🏻&emsp;Let's collaborate
 - 🐍&emsp;I like developing with **Python 🤔**
 - 💬&emsp;Ask me about **Web develope**
 
