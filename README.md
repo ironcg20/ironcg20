@@ -7,6 +7,10 @@
   <a href="https://github.com/ironcg20"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Full-stack%20developer&center=true&width=380&height=45"></a>
 </p>
 
+<a href="https://komarev.com/ghpvc/?username=ironcg20">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ironcg20&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Frontend+Developer;JavaScript+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
@@ -198,9 +202,9 @@
 
 <h3 align="center">Flexible Frontend, JavaScript Full Stack Developer</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=crazy1120&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/crazy1120?style=social"> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/crazy1120?style=social">
+  <img src="https://komarev.com/ghpvc/?username=ironcg20&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ironcg20?style=social"> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ironcg20?style=social">
 </div>
 
 ## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
@@ -237,10 +241,6 @@
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
-
-<a href="https://komarev.com/ghpvc/?username=ironcg20">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ironcg20&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 <p align="center">
  <a href="https://ironcg20.com" target="blank">
